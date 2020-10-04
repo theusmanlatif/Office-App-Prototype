@@ -24,4 +24,4 @@ The record of the University office management system must be open for input. Ta
 
 **10-** When you select get **bonafied certificate**  , user should get a form in which user should provide the related detail and the reason for which he/she wants the bonafied certificate.
 
-![Flow Chart Diagram](https://github.com/theusmanlatif/Office-App-Prototype)
+![Flow Chart Diagram](https://github.com/theusmanlatif/Office-App-Prototype/blob/main/Flow%20chart.jpg)
