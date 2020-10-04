@@ -1,4 +1,7 @@
 <h1><i>MNSUAM-App-Prototype</i></h1>
+
+I chose my university app for prototype because i think university app can be improved and it should have many other options and should be simple.
+
 <h2><i>Adobe XD UI Prototype for Office App</i></h2>
 <h3><i>About App Features:-</i></h3>
 <br>
