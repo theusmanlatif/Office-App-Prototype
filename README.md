@@ -1,9 +1,7 @@
 <h1><i>MNSUAM-App-Prototype</i></h1>
 
-I chose my university app for prototype because i think university app can be improved and it should have many other options and should be simple.
-
 <h1><i>For Trello click here on the link...</i></h1>
-https://trello.com/invite/b/UoNMyqDI/8422b3212553b54243535061e7846189/office-app-protoypemnsuam
+https://trello.com/b/UoNMyqDI
 
 <h2><i>Adobe XD UI Prototype for Office App</i></h2>
 <h3><i>About App Features:-</i></h3>
